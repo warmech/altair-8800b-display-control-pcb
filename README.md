@@ -10,6 +10,6 @@ For the accompanying CPU, Interface, and 1702-to-2716/32 adapter boards, please 
 
 [Altair 8800B Interface Card](https://github.com/warmech/altair-8800b-interface-card)
 
-[Altair 8800B Display/Control PCB](https://github.com/warmech/altair-8800b-display-control-pcb)
+[Altair 8800B 1702-to-2716/2732 Adapter](https://github.com/warmech/altair-8800b-1702-to-2716-eprom-adapter)
 
 ![](/images/altair-8800b-display-control-pcb-front.png)
